@@ -1,0 +1,12 @@
+{
+  "name": "Mushaf Pojok — Teman Ngaji",
+  "short_name": "Mushaf Pojok",
+  "description": "Prototipe Al-Qur'an Mushaf Pojok dengan absensi dan catatan offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8faf7",
+  "theme_color": "#145b45",
+  "lang": "id",
+  "icons": []
+}
